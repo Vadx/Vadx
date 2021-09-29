@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Vadx
+- 💻 10+ Years Experience in Front-end Development
 - 💞️ I’m looking to collaborate on React, ReactNative, Next.js, Gatsby.js
 - 📫 vadx.dev@gmail.com
 
