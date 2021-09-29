@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vadx
 - 💻 10+ Years Experience in Front-end Development
-- 👨‍💻 Tech Stack: React, ReactNative, Next.js, Gatsby.js
-- 🛠 Tools: Git, GitHub, GitLab, Jira, Heroku, Jigma, Skatch
+- 👨‍💻 Tech Stack: React, ReactNative, Next.js, Gatsby.js, Redax, Redax Saga, GraphQL, TS
+- 🛠 Tools: Git, GitHub, GitLab, Jira, Heroku, Figma, Skatch
 - 📫 vadx.dev@gmail.com
 
 <!---
